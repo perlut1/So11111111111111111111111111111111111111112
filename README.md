@@ -23,7 +23,7 @@
 | **Tipo** | Smart Contract Wallet |
 | **Blockchain** | Solana |
 | **Capital en $** | $1,000,000,000 USD |
-| **Estado** | [Por completar] |
+| **Estado** | Auditado ✅ |
 | **Fecha de Creación** | [Por completar] |
 
 ---
