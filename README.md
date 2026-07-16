@@ -22,7 +22,7 @@
 | **Dirección** | `7cCMYZ57dsJRann8YsAb7qSqafAUYwMsJCaa3d7Ez4ji` |
 | **Tipo** | Smart Contract Wallet |
 | **Blockchain** | Solana |
-| **Capital en $** | [Por completar] |
+| **Capital en $** | $1,000,000,000 USD |
 | **Estado** | [Por completar] |
 | **Fecha de Creación** | [Por completar] |
 
