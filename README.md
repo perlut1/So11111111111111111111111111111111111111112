@@ -24,7 +24,7 @@
 | **Blockchain** | Solana |
 | **Capital en $** | $1,000,000,000 USD |
 | **Estado** | Auditado ✅ |
-| **Fecha de Creación** | [Por completar] |
+| **Fecha de Creación** | 06/01/2026
 
 ---
 
